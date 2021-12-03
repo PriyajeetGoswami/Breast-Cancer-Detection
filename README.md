@@ -9,4 +9,4 @@ An intensive approach to Machine Learning, Deep Learning is inspired by the work
 Keras is an open-source neural-network library written in Python. It is a high-level API and can run on top of TensorFlow, CNTK, and Theano. Keras is all about enabling fast experimentation and prototyping while running seamlessly on CPU and GPU. It is user-friendly, modular, and extensible.
 ## Breast Cancer Detection – Objective
 
-To build a breast cancer classifier on an sklearn dataset that can accurately classify a histology image as benign or malignant.
+To build a breast cancer classifier on a sklearn dataset that can accurately classify a histology image as benign or malignant.
