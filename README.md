@@ -1,5 +1,5 @@
-# Breast-Cancer-Detection
-Breast Cancer Detection Project in Python
+# Breast-Cancer-Detection-Model
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PriyajeetGoswami/Breast-Cancer-Detection/blob/main/Breast_Cancer_Detection.ipynb)
 
 ## What is Deep Learning?
 
